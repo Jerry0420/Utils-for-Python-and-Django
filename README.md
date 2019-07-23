@@ -23,7 +23,7 @@ parameter = {"image_key": picture_file}
 ```
 
 ### 優勢
-1. 只要兩行程式碼，即可方送網路請求，得到 http response(dict 格式) , http status code
+1. 只要兩行程式碼，即可發送網路請求，得到 http response(dict 格式) , http status code
 2. 所有的 http method, content type 皆以 namedtuple 方式呼叫，避免輸入字串，增加打錯字風險，以及加快開發速度。
 
 ## 在 Django 中處理網路請求
