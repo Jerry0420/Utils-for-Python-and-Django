@@ -28,7 +28,7 @@ parameter = {"image_key": picture_file}
 
 ### 應用
 可參考：<a href="https://github.com/Jerry0420/Python-Postman-Utils-in-IDE" title="Title">
-KPython Postman 專案 </a>  ，內部有相關的應用方式。
+Python Postman 專案 </a>  ，內部有相關的應用方式。
 
 ## 在 Django 中處理網路請求
 ###使用方式
