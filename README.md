@@ -31,7 +31,7 @@ parameter = {"image_key": picture_file}
 Python Postman 專案 </a>  ，內部有相關的應用方式。
 
 ## 在 Django 中處理網路請求
-###使用方式
+### 使用方式
 
 ```python
 # 在任何 middleware 中或程式碼中放入
